@@ -13,13 +13,13 @@ N/A
 
 In the HTML, using properly semantic tags will make HTML more comprehensive that helps defining the different sections and layout for the webpage. 
 
-Changing the title from "website" to "Horiseon-Search Engine optimization and Social Media" as it will be more specific about the website instead of just a vague title. 
+Changing the title from **website** to **Horiseon-Search Engine optimization and Social Media" as it will be more specific about the website instead of just a vague title.**
 
-Adding the "nav class= header" semantic in order to create a nagivation bar. 
+Adding the **nav class= header** semantic tag in order to create a nagivation bar. 
 
-Adding three separate "section" for each heading of the webpage. 
+Adding three separate **section** for each heading of the webpage. 
 
-Adding header under the body to help defined the header for this section as it contains the three big heading for the webpage. 
+Adding **header** under the **body** tag to help defined the header for this section as it contains the three big heading for the webpage. 
 
 
 In the CSS, organizing or consolidating the formatting, and images properties is important. All of the same format elements should put together, so the team members will easy to keep track and maintainable. 
