@@ -27,6 +27,8 @@ There are five formattings needed to be consolidated in the CSS.
 
 For example, benefit-lead, benefit-brand, and benefit-cost have the same margin-bottom and color, they should consolidate into the same section instead of make each of them with the similar format.
 
+```
+
 /*consolidated the formatting*/
 .benefit-lead, 
 .benefit-brand, 
@@ -74,6 +76,7 @@ For example, benefit-lead, benefit-brand, and benefit-cost have the same margin-
     font-size: 36px;
 }
 
+```
 ## Credit
 N/A
 
