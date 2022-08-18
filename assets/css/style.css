@@ -86,7 +86,7 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead,
+.benefit-lead, /*consolidated the formatting*/
 .benefit-brand, 
 .benefit-cost
 
@@ -105,7 +105,7 @@ p {
     color: #ffffff;
 } */
 
-.benefit-lead h3, 
+.benefit-lead h3,  /*consolidated the fomatting*/
 .benefit-brand h3,
 .benefit-cost h3
  {
