@@ -26,7 +26,8 @@ Adding **alt** attribute will help provided information about the image that the
 In the CSS, organizing or consolidating the formatting, and images properties is important. All of the same format elements should put together, so the team members will easy to keep track and maintainable. 
 There are five formattings needed to be consolidated in the CSS. 
 
-For example, benefit-lead, benefit-brand, and benefit-cost have the same margin-bottom and color, they should consolidate into the same section instead of make each of them with the similar format.
+First of all, benefit-lead, benefit-brand, and benefit-cost have the same margin-bottom and color, they should consolidate into the same section instead of make each of them with the similar format.
+Similarly, other images properties and other formatting are also needed to be consolidated in the same section. 
 
 ![consolidated formatting](https://user-images.githubusercontent.com/110440453/185523005-f060843d-6b6b-4571-814a-44aaf672978b.PNG)
 ![consolidated formatting and img properties](https://user-images.githubusercontent.com/110440453/185523147-e666402e-92c3-48d9-ac84-8bb76fbc6f6a.PNG)
