@@ -17,10 +17,11 @@ Changing the title from **website** to **Horiseon-Search Engine optimization and
 
 Adding the **nav class= header** semantic tag in order to create a nagivation bar. 
 
-Adding three separate **section** for each heading of the webpage. 
+Adding three separate **section** element for each heading of the webpage. 
 
-Adding **header** under the **body** tag to help defined the header for this section as it contains the three big heading for the webpage. 
+Adding **header** element under the **body** element to help defined the header for this section as it contains the three big heading for the webpage. 
 
+Adding **alt** attribute will help provided information about the image that the viewer cannot be able to see. 
 
 In the CSS, organizing or consolidating the formatting, and images properties is important. All of the same format elements should put together, so the team members will easy to keep track and maintainable. 
 There are five formattings needed to be consolidated in the CSS. 
