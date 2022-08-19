@@ -27,58 +27,13 @@ There are five formattings needed to be consolidated in the CSS.
 
 For example, benefit-lead, benefit-brand, and benefit-cost have the same margin-bottom and color, they should consolidate into the same section instead of make each of them with the similar format.
 
-```
+![consolidated formatting](https://user-images.githubusercontent.com/110440453/185523005-f060843d-6b6b-4571-814a-44aaf672978b.PNG)
+![consolidated formatting and img properties](https://user-images.githubusercontent.com/110440453/185523147-e666402e-92c3-48d9-ac84-8bb76fbc6f6a.PNG)
 
-/*consolidated the formatting*/
-.benefit-lead, 
-.benefit-brand, 
-.benefit-cost
-{
-    margin-bottom: 32px;
-    color: #ffffff;
-}
 
- Similarily, benefit-lead img, benefit-brand img, and benefit-cost img also have the similar margin and color. 
 
-/*consolidated the images properties*/
-.benefit-lead img, 
-.benefit-brand img, 
-.benefit-cost img 
-{
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-3rd, 
- /*consolidated the formatting*/
-.search-engine-optimization,
-.online-reputation-management, 
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-4th,
-/*consolidated the images properties*/
-.search-engine-optimization img, 
-.online-reputation-management img,
-.social-media-marketing img {
-    max-height: 200px;
-}
-5th, 
-/*consolidated the formatting*/
-.search-engine-optimization h2, 
-.online-reputation-management h2,
-.social-media-marketing h2
- {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
-
-```
+## Deployment link
+https://tweetwee1810.github.io/Horiseon-refactor/
 ## Credit
 N/A
 
